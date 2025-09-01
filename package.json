@@ -15,10 +15,9 @@
   },
   "license": "ISC",
   "author": "Koushik Bajpayee",
-  "type": "commonjs",
   "scripts": {
     "start": "parcel index.html",
-    "test": "jest"
+    "build": "parcel build index.html"
   },
   "devDependencies": {
     "parcel": "^2.15.4"
