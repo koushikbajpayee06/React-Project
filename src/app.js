@@ -6,15 +6,6 @@ import RestaurantCard from "./components/RestaurantCard";
 
 
 
-
-
-
-
-
-
-
-
-
 const currYear = new Date().getFullYear();
 
 const Footer = () => {
