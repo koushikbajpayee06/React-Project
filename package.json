@@ -20,7 +20,8 @@
     "build": "parcel build index.html"
   },
   "devDependencies": {
-    "parcel": "^2.15.4"
+    "parcel": "^2.15.4",
+    "parcel-proxy-server": "^1.1.0"
   },
   "dependencies": {
     "react": "^18.3.1",
